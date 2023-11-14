@@ -18,4 +18,4 @@ from the text file.
 • If there is error, the `movie.txt` will return an object containing and `error` element. 
 
 ## UML Sequence Diagram
-<img width="616" alt="Screen Shot 2023-11-14 at 2 29 35 PM" src="https://github.com/alyssacabading/CS361-MicroserviceProject/assets/104327270/244ebf18-6b79-46a3-a4d5-a04e604e81d0">
+<img width="616" alt="Screen Shot 2023-11-14 at 2 29 35 PM" src="https://github.com/alyssacabading/CS361-MicroserviceProject/assets/104327270/532c8451-7e5d-4e26-b33d-a84c715f41c7">

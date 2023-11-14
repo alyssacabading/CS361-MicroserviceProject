@@ -7,11 +7,11 @@ This mircoservice will return an array of streaming services hosting a given mov
 - Package: 'fs' for reading files. 
 
 ## Usage
-• To request an array of streaming service hosting a movie, you must write
+• To REQUEST an array of streaming service hosting a movie, you must write
 `Streaming services of: {insert movie name here}`
-to `movie.txt`.
+to `movie.txt`. For example: `Streaming services of: Django'.
 
-• To receive an array of streaming services, the response will be on the `movie.txt`
+• To RECEIVE an array of streaming services, the response will be on the `movie.txt`
 file as an array. It is YOUR RESPONSIBILITY to decide how you will render the response
 from the text file. 
 
